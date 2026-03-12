@@ -119,6 +119,23 @@ After installing the extension:
 
 ---
 
+## 📷 Screenshots
+
+### Context Menu
+Right-click on selected text and choose **Rewrite AI** from the context menu.
+
+![Context Menu](assets/screenshots/ContextMenu.png)
+
+### Rewrite Suggestions
+Rewrite AI generates improved versions of the selected text using AI.
+
+![Rewrite Suggestions](assets/screenshots/Suggestions.png)
+
+### Settings Page
+Configure your preferred AI provider and API keys.
+
+![Settings](assets/screenshots/Settings.png)
+
 ## 🌌 About Vaan Labs
 
 **Vaan Labs** builds useful software tools including:
